@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main-contaner{
+    width: 100%;
+    min-height: 100vh;
+    background-color: #25293C;
+    font-family: crow;
+
+    /* padding: 2rem; */
+}
+@font-face {
+    font-family: crow;
+    src: url(../public/font/October\ Crow.ttf);
+  }
