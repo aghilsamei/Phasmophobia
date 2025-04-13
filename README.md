@@ -36,4 +36,4 @@ Here’s a quick look at the **Phasmophobia** experience:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/phasmophobia.git
+   git clone https://github.com/aghilsamei/phasmophobia.git
